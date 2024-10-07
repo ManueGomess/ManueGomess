@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Meu nome é **Manuella Gomes**, tenho **17 anos**, estou no útimo sementre do **Curso Ánalise Desenvolvimentos de Sistemas**
+Olá! Meu nome é **Manuella Gomes**, tenho **17 anos**, estou no útimo sementre do **Curso Análise Desenvolvimentos de Sistemas**
 
 ## Habilidades
 
